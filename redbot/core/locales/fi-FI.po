@@ -2130,11 +2130,11 @@ msgstr ""
 
 #: redbot/core/modlog.py:425 redbot/core/modlog.py:430
 msgid "Channel"
-msgstr ""
+msgstr "Kanava"
 
 #: redbot/core/modlog.py:426
 msgid "{channel} (deleted)"
-msgstr ""
+msgstr "{channel} (poistettu)"
 
 #: redbot/core/modlog.py:432
 msgid "Amended by"
@@ -2142,15 +2142,15 @@ msgstr ""
 
 #: redbot/core/modlog.py:434
 msgid "Last modified at"
-msgstr ""
+msgstr "Viimeksi muokattu"
 
 #: redbot/core/modlog.py:454
 msgid "**User:** {}\\n"
-msgstr ""
+msgstr "**Käyttäjä:** {}\\n"
 
 #: redbot/core/modlog.py:455
 msgid "**Moderator:** {}\\n"
-msgstr ""
+msgstr "**Moderaattori:** {}\\n"
 
 #: redbot/core/modlog.py:458
 msgid "**Until:** {}\\n**Duration:** {}\\n"
@@ -2158,11 +2158,11 @@ msgstr ""
 
 #: redbot/core/modlog.py:461
 msgid "**Channel**: {} (Deleted)\\n"
-msgstr ""
+msgstr "**Kanava**: {} (Poistettu)\\n"
 
 #: redbot/core/modlog.py:463
 msgid "**Channel**: {}\\n"
-msgstr ""
+msgstr "**Kanava**: {}\\n"
 
 #: redbot/core/modlog.py:465
 msgid "**Amended by:** {}\\n"
@@ -2170,5 +2170,5 @@ msgstr ""
 
 #: redbot/core/modlog.py:467
 msgid "**Last modified at:** {}\\n"
-msgstr ""
+msgstr "**Viimeksi muokattu:** {}\\n"
 
